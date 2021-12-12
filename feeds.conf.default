@@ -1,0 +1,13 @@
+src-git packages https://gitee.com/gebag/packages
+src-git luci https://gitee.com/gebag/luci
+src-git routing git://git.openwrt.org/feed/routing.git
+src-git telephony git://git.openwrt.org/feed/telephony.git
+src-git kenzo https://gitee.com/gebag/openwrt-packages
+src-git small https://gitee.com/gebag/small
+#src-git 99906 https://gitee.com/gebag/openwrt-passwall
+#src-git 66606 https://gitee.com/gebag/openwrt-packages/tree/master/luci-app-bypass
+#src-git jingdog https://gitee.com/gebag/luci-app-jd-dailybonus
+#src-git video https://github.com/openwrt/video.git
+#src-git targets https://github.com/openwrt/targets.git
+#src-git oldpackages http://git.openwrt.org/packages.git
+#src-link custom /usr/src/openwrt/custom-feed
